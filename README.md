@@ -1,2 +1,2 @@
-# digilib1
-This is the scratch code on which digilib is made.
+# digilib
+An android digital library application for students, built by Kushagra Kumar. Available on playstore as Digilib.
